@@ -1,15 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE xsl:stylesheet [<!ENTITY mdash "&#x2014;">]>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title type="text" xml:lang="en">Opportunity</title>
+  <title type="text" xml:lang="en">Job Opportunity</title>
   <link type="application/atom+xml" href="/feed.xml" rel="self"/>
   <link type="text/html" href="" rel="alternate"/>
-  <updated>2015-06-08T15:44:26+05:30</updated>
+  <updated>2015-06-09T11:12:15+05:30</updated>
   <id>/all_feed</id>
   <author>
     <name></name>
   </author>
 
+  
+  <entry>
+    <title>Reserve Bank Junior Engineer posts last date 26th June-2015</title>
+    <link href="/2015/06/reserve-bank-junior-engineer-posts-last/"/>
+    <updated>2015-06-09T10:55:00+05:30</updated>
+    <id>/2015/06/reserve-bank-junior-engineer-posts-last</id>
+    <content type="html">&lt;p&gt;Online applications are invited for the following Junior Engineer posts in Reserve Bank of India (RBI/ Bank) from Indian citizens :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Junior Engineer  (Civil) : 11  posts &lt;/li&gt;
+  &lt;li&gt;Junior Engineer  (Electrical) : 12  posts &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Age : 20-30 years as on 05/06//2015.&lt;/p&gt;
+
+&lt;p&gt;Pay Scale : Rs. 8400-20100&lt;/p&gt;
+
+&lt;p&gt;How to Apply : Apply Online at RBI website from 05/06/2015 to 26/06/2016 only.&lt;/p&gt;
+
+&lt;p&gt;The further detail along with a link to online submission of application, Please visit RBI website &lt;a href=&quot;http://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=3020&quot;&gt;http://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=3020&lt;/a&gt; onwards.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Job posts in Sarva Haryana Gramin Bank last date 26th June-2015</title>
+    <link href="/2015/06/job-posts-in-sarva-haryana-gramin-bank/"/>
+    <updated>2015-06-09T10:55:00+05:30</updated>
+    <id>/2015/06/job-posts-in-sarva-haryana-gramin-bank</id>
+    <content type="html">&lt;p&gt;Sarva  Haryana  Gramin  Bank  invites  applications  for the  post  of  Officer  Scale  III,  Scale  II  (General Banking Officer &amp;amp; Specialist Officer),  Scale I and  Office Assistant (Multipurpose) from Indian citizens  who  have  been  declared  qualified  at  the  Online  CWE-III  for  RRBs  conducted  by  IBPS  during September 2014.  :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Officer Scale-III : 07 posts, Pay Scale : Rs. 25700 - 31500 &lt;/li&gt;
+  &lt;li&gt;Officer Scale-II (General Banking Officer) : 50 posts, Pay Scale : Rs. 19400 - 28100&lt;/li&gt;
+  &lt;li&gt;Officer Scale-II (Law Officer) : 01 post, Pay Scale : Rs. 19400 - 28100&lt;/li&gt;
+  &lt;li&gt;Officer Scale-II (Agriculture Officer) : 05 posts, Pay Scale : Rs. 19400 - 28100&lt;/li&gt;
+  &lt;li&gt;Officer JMG Scale-I : 100 posts, Pay Scale : Rs. 14500 - 25700&lt;/li&gt;
+  &lt;li&gt;Office-Assistant (Multipurpose) : 100  posts, Pay Scale : Rs. 7200 - 19300&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Application Fee : Rs.100/- (Rs.20/- for SC/PH)  branch in SHGB through a payment challan.   &lt;/p&gt;
+
+&lt;p&gt;How to Apply : Apply Online at Sarva Haryana Gramin Bank Website from 09/06/2015 to 24/06/2015.&lt;/p&gt;
+
+&lt;p&gt;Please visit &lt;a href=&quot;http://www.shgb.co.in/RecruitmentsandPromotions&quot;&gt;http://www.shgb.co.in/RecruitmentsandPromotions&lt;/a&gt;  for detailed information and apply online.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Faculty posts in NIT Puducherry last date 15th July-2015</title>
@@ -542,62 +588,6 @@ Chhattisgarh-492001&lt;/p&gt;
 
 &lt;p&gt;For further details and application format, please
 view//http://sscregistration.nic.in/ssc/notice/examnotice/Advt.1-2015%20Engish_MPR.pdf&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Job posts in CSIR - CDRI last date 12th June-2015</title>
-    <link href="/2015/06/job-posts-in-csir-cdri/"/>
-    <updated>2015-06-04T20:49:00+05:30</updated>
-    <id>/2015/06/job-posts-in-csir-cdri</id>
-    <content type="html">&lt;p&gt;Applications are invited from Indian Citizen in prescribed forms for the
-following posts in CDRI, Lucknow :&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Assistant (G) Gr.III  : 07 posts, Pay Scale :  Rs.5200-20200 
- Grade Pay Rs. 1900/-&lt;/li&gt;
-  &lt;li&gt;Jr. Stenographer (English/Hindi) : 06 posts, Pay Scale : 
- Rs.5200-20200  Grade Pay Rs. 2400/-&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Application Fee : Applications must be accompanied with an application
-fee of Rs. 100/- in the form of Banker Cheque/ Demand Draft drawn in
-favour of the Director, Central Drug Research Institute, payable at
-Lucknow. SC/ST/PH/Women candidates are exempted from application fee.&lt;/p&gt;
-
-&lt;p&gt;How to Apply : Applications in prescribed format duly completed and
-supported by necessary documents should reach to Director, Central Drug
-Research Institute, Chattar Manzil Palace, Post Box No 173, Lucknow -
-226001 on or before 12/06/2015 positively.&lt;/p&gt;
-
-&lt;p&gt;Complete Advertisement and application form is available at
-http://www.cdriindia.org/uploaded/complete_advt._no._2-2015.pdf&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Hockey Players posts in PNB last date 20th June-2015</title>
-    <link href="/2015/06/hockey-players-posts-in-pnb/"/>
-    <updated>2015-06-04T20:44:00+05:30</updated>
-    <id>/2015/06/hockey-players-posts-in-pnb</id>
-    <content type="html">&lt;p&gt;Punjab National Bank (PNB) invites online applications for following
-posts of Hockey players :&lt;/p&gt;
-
-&lt;p&gt;Hockey Player : 09 posts (male only), Age : 18-26 years, Pay Scale
-    : Rs. 7200-19300&lt;/p&gt;
-
-&lt;p&gt;Application Fee : Rs.300/- (Rs.50/- for SC/ST/PWD/Ex.SM candidates) to
-be deposited any Branch of PNB through a voucher challan which is
-available on PNB website.&lt;/p&gt;
-
-&lt;p&gt;How to Apply : Application in the prescribed format should be send on
-or before 20/06/2015 to Chief Manager (Recruitment Section), HRD
-Division, Punjab National Bank, HO: 7, Bhikhaiji Cama Place, New
-Delhi-110066.&lt;/p&gt;
-
-&lt;p&gt;Kindly visit http://pnbindia.com/En/ui/Recruitment.aspx for Detailed
-information and link to online submission of Application from as well as
-payment voucher.&lt;/p&gt;
 </content>
   </entry>
   
