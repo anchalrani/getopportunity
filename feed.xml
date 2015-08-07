@@ -4,12 +4,51 @@
   <title type="text" xml:lang="en">Job Opportunity</title>
   <link type="application/atom+xml" href="/feed.xml" rel="self"/>
   <link type="text/html" href="" rel="alternate"/>
-  <updated>2015-08-07T09:24:15+05:30</updated>
+  <updated>2015-08-07T22:24:44+05:30</updated>
   <id>/all_feed</id>
   <author>
     <name>Opportunity-admin</name>
   </author>
 
+  
+  <entry>
+    <title>Various Job posts in GSPC last date 14th Aug-2015</title>
+    <link href="/2015/08/07/various-job-posts-in-gspc-last-date/"/>
+    <updated>2015-08-07T22:17:00+05:30</updated>
+    <id>/2015/08/07/various-job-posts-in-gspc-last-date</id>
+    <content type="html">&lt;p&gt;GSPC is looking for following Professionals for its Units :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;GM/ DGM (Well Engineering) Code : 01 post&lt;/li&gt;
+  &lt;li&gt;GM/DGM (Well Testing &amp;amp; Completions) : 01 post&lt;/li&gt;
+  &lt;li&gt;AGM/ Sr. Manager (Well Testing  &amp;amp; Completions)  : 01 post&lt;/li&gt;
+  &lt;li&gt;Manager / Asst. Manager (Production)  : 02 posts&lt;/li&gt;
+  &lt;li&gt;Asst. Manager – SAP (HCM)   : 01 post&lt;/li&gt;
+  &lt;li&gt;Sr. Officer/ Asst. Manager (Mechanical Maintenance- Offshore)  : 01 post&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;How to Apply&lt;/strong&gt; :  Please apply Online at GSPC website on or before 14/08/2015.&lt;/p&gt;
+
+&lt;p&gt;Please visit &lt;a href=&quot;http://gspcgroup.com/career_detail.php?CareerID=42&amp;amp;CID=1&quot;&gt;http://gspcgroup.com/career_detail.php?CareerID=42&amp;amp;CID=1&lt;/a&gt; for details and online submission of application.&lt;/p&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>Special Recruitment Drive in MNIT Jaipur for faculty posts last date 24th Aug-2015</title>
+    <link href="/2015/08/07/special-recruitment-drive-in-mnit/"/>
+    <updated>2015-08-07T22:17:00+05:30</updated>
+    <id>/2015/08/07/special-recruitment-drive-in-mnit</id>
+    <content type="html">&lt;p&gt;Malaviya National Institute of Technology (M NIT), Jaipur (MNIT, Jaipur) invites Online applications from Indian nationals, possessing excellent academic background, for filling up of the posts of Assistant Professors in the various departments of the institute in special recruitment drive for SC / ST / OBC / PH candidates :&lt;/p&gt;
+
+&lt;p&gt;Assistant Professor : 39 posts in various disciplines, Pay Scale : Rs. 15600 - 39100 grade pay Rs. 6000/ 7000/ 8000&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How to Apply&lt;/strong&gt; :  Apply Online at MNIT Jipur website from 05/08/2015 to 24/08/2015 only.&lt;/p&gt;
+
+&lt;p&gt;Please visit &lt;a href=&quot;http://mnit.ac.in/news/news.php?news_id=1195&quot;&gt;http://mnit.ac.in/news/news.php?news_id=1195&lt;/a&gt; for details and online submission of application. 
+ &lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Faculty and other posts in Central University of Rajasthan last date 16th Sep-2015</title>
@@ -475,38 +514,6 @@ $(document).ready(function(){$(“.pl”).click(function(){$(“#share-menu”).
 &lt;p&gt;Related Posts&lt;/p&gt;
 
 &lt;p&gt;artikelterkait();&lt;/p&gt;
-
-</content>
-  </entry>
-  
-  <entry>
-    <title>Scientist posts in CSIR CIMFR last date 31st Aug-2015</title>
-    <link href="/2015/08/06/scientist-posts-in-csir-cimfr-last-date/"/>
-    <updated>2015-08-06T20:39:00+05:30</updated>
-    <id>/2015/08/06/scientist-posts-in-csir-cimfr-last-date</id>
-    <content type="html">&lt;p&gt;Central Institute of Mining and Fuel Research  is a premier research Institute in the field of Mining and Fuel Technology, setup under the Council of Scientific &amp;amp; Industrial Research (CSIR). The Institute is looking for qualified dynamic and motivated persons for following positions of Scientists :&lt;/p&gt;
-
-&lt;p&gt;Senior Scientist / Scientist : 18 posts, Pay Scale : PB-3 Rs. 15600-39100 grade pay Rs. 7600/-  / Rs. 6600/-, Age : 37 / 32 years. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How to Apply&lt;/strong&gt; : Application in the prescribed format should reach The Controller of Administration, CIMFR, Barwa Road, Dhanbad - 826015 (Jharkhand) by Registered / Speed Post on or before  31/08/2015. &lt;/p&gt;
-
-&lt;p&gt;For further details and application form format please visit &lt;a href=&quot;http://www.cimfr.nic.in&quot;&gt;http://www.cimfr.nic.in&lt;/a&gt;&lt;/p&gt;
-
-</content>
-  </entry>
-  
-  <entry>
-    <title>Walk-In for Engineers in BEL Ghaziabad on 23rd Aug-2015</title>
-    <link href="/2015/08/06/walk-in-for-engineers-in-bel-ghaziabad/"/>
-    <updated>2015-08-06T20:38:00+05:30</updated>
-    <id>/2015/08/06/walk-in-for-engineers-in-bel-ghaziabad</id>
-    <content type="html">&lt;p&gt;Bharat Electronics Limited (BEL), a Navratana company and India’s premier professional electronics company is holding Walk -In - Interview for Electronics &amp;amp; Communication Engineers, for its SCCS SBU  (Ghaziabad) on Contract Basis for a period of one year :&lt;/p&gt;
-
-&lt;p&gt;Engineer (Electronics &amp;amp; Communication) : 15 posts, Pay Scale : Rs. 16400-40500, Age : 28 years, Remuneration: Rs.18000 per month for those possessing experience 0 to 1 year, Rs.21000 per month for those possessing experience between 1-2 years and Rs.23000 per month for those having more than 2 years of experience.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Walk-In-Interview&lt;/strong&gt; :  Candidates meeting the above criteria may come for the Walk - In - Interview to be held on 23/08/2015 (Sunday) at  9:00 AM onwards at  “Bharat Electronics Limited”,  P.O.  Bharat  Nagar, Sahibabad, Ghaziabad (U.P.) (Near Vaishali metro station).&lt;/p&gt;
-
-&lt;p&gt;Please visit &lt;a href=&quot;http://www.bel-india.com/recruitment&quot;&gt;http://www.bel-india.com/recruitment&lt;/a&gt;  for details and  online application format. &lt;/p&gt;
 
 </content>
   </entry>
