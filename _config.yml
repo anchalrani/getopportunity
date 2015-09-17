@@ -1,0 +1,23 @@
+name: Job Opportunity
+description:  Never miss one!
+
+sass:
+  sass_dir: assets/css/_sass
+  style: :compressed
+
+markdown: kramdown
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+
+url: 
+permalink: /:year/:month/:day/:title/
+owner:
+    name: Opportunity-admin
+    twitter: get_jobs_update
+    github: #
+    disqus_shortname: getopportunity
+
+ga_id: UA-63845346-1
+ga_username: auto
+
+timezone: India/Kolkata

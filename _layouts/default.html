@@ -1,0 +1,65 @@
+{% include head.html %}
+ <div class="google-ads" style="margin-top:40px; text-align:center;">
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- GetOpportunity -->
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="ca-pub-5477329429218977"
+                             data-ad-slot="4757721849"
+                             data-ad-format="auto"></ins>
+                        <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+</div>
+<main>
+    <span class="statusbar"></span>
+    <!-- Wrap all page content here -->
+    <div id="wrap">
+        <div id="body" class="container">
+            <div class="row row-offcanvas row-offcanvas-left">
+                <!-- side navigation -->
+                <nav id="nav" role="navigation" class="col-sm-2 sidebar-offcanvas">
+                    <header id="menu" role="banner">
+                        <p class="menu-title">Close</p>
+                        <a href="#nav" class="close-btn">
+                            <img src="{{ "/assets/fonts/close-btn.svg" | prepend: site.url }}" alt="close button">
+                        </a>
+                    </header>
+                    {% include sidenav.html %}
+
+
+                </nav>
+                <header id="menu" role="banner">
+                    <p class="menu-title">Menu</p>
+                    <a href="#nav" class="menu-btn">
+                        <img src="{{ "/assets/fonts/menu-btn.svg" | prepend: site.url }}" alt="menu button">
+                    </a>
+                </header>
+                <!-- Content -->
+                <div class="col-sm-10">
+                    <nav class="top">
+                        <H2><a href="{{ "/index.html" | prepend: site.url }}">{{ site.name }} &mdash; {{ site.description }}</a></H2>
+                        <span class="pull-right">
+                            <a id="twitter-ic" class="link" href="https://twitter.com/{{site.owner.twitter}}">
+                                <i class="fa fa-twitter fa-lg"></i>
+                            </a>
+                            <!--<a id="git-ic" class="link" href="https://github.com/{{site.owner.github}}">
+                                <i class="fa fa-github-square fa-lg"></i>
+                            </a>-->
+                            <a id="rss-ic" class="link" href="{{ "/feed.xml" | prepend: site.url }}">
+                                <i class="fa fa-rss fa-lg"></i>
+                            </a>
+                        </span>
+                    </nav>
+                    <div class="row">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer class="footer text-center meta">
+            <a></a>
+        </footer>
+    </div>
+</main>
+{% include footer.html %}
