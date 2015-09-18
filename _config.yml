@@ -21,3 +21,9 @@ ga_id: UA-63845346-1
 ga_username: auto
 
 timezone: India/Kolkata
+
+exclude:
+ - README.md
+ - vendor
+ - Gemfile
+ - Gemfile.lock
