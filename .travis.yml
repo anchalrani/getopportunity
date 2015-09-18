@@ -4,15 +4,13 @@ rvm:
 - 2.1
 
 install: bundle install
-script: jekyll build 
+script: bundle exec rake site:deploy --quiet
 
 branches:
   only:
   - master     # test the gh-pages branch
 
 env:
-  global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true 
     secure: "t0CWBSS7Kc7Fh+l4Sx3B2xDmexz0RJCYTNJlFSfQT1PCI60bPq1RE4ZbyFRR0w+YLl5ED
 GKFAf+0paB4q/Sb/yG3m5wbuTHzjoRbLQR0eXbjNtUsO7MMXRkUy0P/9qR2uT8P+1jP4oonDp23LpMgk
 elgE8UMBF9ZLOx21jOizjtfenpdBJHcngs5nsa5Sm4iGa9tCFgTCg5ulN7K+SxQdbht65jk1J0gzNfpH
