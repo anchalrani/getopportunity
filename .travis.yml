@@ -3,8 +3,8 @@ language: ruby
 rvm:
 - 2.1
 
-install: bundle install
-script: jekyll build 
+install: gem install travis
+script: travis encrypt 'GIT_NAME="YOUR_USERNAME" GIT_EMAIL="YOUR_EMAIL" GH_TOKEN=YOUR_TOKEN' 
 
 branches:
   only:
