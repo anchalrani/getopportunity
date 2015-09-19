@@ -1,6 +1,9 @@
 name: Job Opportunity
 description:  Never miss one!
 
+relative_source: ../getopportunity/
+destination: ../getopportunity/
+
 sass:
   sass_dir: assets/css/_sass
   style: :compressed
@@ -22,8 +25,17 @@ ga_username: auto
 
 timezone: India/Kolkata
 
+username: anchalrani
+repo: getopportunity
+branch: master
+
 exclude:
- - README.md
- - vendor
- - Gemfile
- - Gemfile.lock
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
+
