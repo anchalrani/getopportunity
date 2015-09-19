@@ -2,7 +2,7 @@ name: Job Opportunity
 description:  Never miss one!
 
 relative_source: ../getopportunity/
-destination: ../getopportunity/
+destination: ../getopportunity-gh-pages/
 
 sass:
   sass_dir: assets/css/_sass
