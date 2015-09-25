@@ -6,8 +6,7 @@ comments: true
 tags:  Engineer  Manager  Public-Sector  Telangana 
 archive: false
 ---
-
-Bharat Dynamics Limited (BDL) is a high-technology fast growing Mini Ratna PSU under the Ministry of Defence. BDL invites applications from eligible Indian Nationals for the following posts : Published by http://www.SarkariNaukriBlog.com
+Bharat Dynamics Limited (BDL) is a high-technology fast growing Mini Ratna PSU under the Ministry of Defence. BDL invites applications from eligible Indian Nationals for the following posts
 
 - Manager (Civil) : 01 post
 - Dy. Manager (Civil) : 03 posts
