@@ -1,0 +1,16 @@
+---
+layout: post
+title: Last date extended up to 12th Oct-2015 for Scientist vacacncy in CSIO Chandigarh    
+date: 2015-09-30 11:02
+comments: true
+tags:  All Tags  Chandigarh  CSIR  Online  Scientific  Scientist 
+archive: false
+---
+CSIO is set to recruit in its ranks young and dynamic persons with brilliant academic records in the following Scientist positions :
+
+
+Scientist / Senior Scientist : 28 posts (UR-14, OBC-7, SC-5, ST-2), Pay Scale: Rs. 15600 - 39100  Grade Pay Rs. 6600 / 7600, Age : 32 / 37 years
+
+** How to Apply** : Apply Online at CSIO website from 30/08/2015 to 30/09/2015 Now extended up to 12/10/2015 only.  
+
+Please visit <http://career.csio.res.in/Home.aspx> for details and Online  application form.
