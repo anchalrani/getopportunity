@@ -4,7 +4,7 @@
   <title type="text" xml:lang="en">Job Opportunity</title>
   <link type="application/atom+xml" href="/feed.xml" rel="self"/>
   <link type="text/html" href="" rel="alternate"/>
-  <updated>2015-10-01T04:47:32+00:00</updated>
+  <updated>2015-10-01T16:35:01+00:00</updated>
   <id>/all_feed</id>
   <author>
     <name>Opportunity-admin</name>
@@ -51,51 +51,6 @@ infrastructure in the country. NPCI invites online applications for the followin
 &lt;p&gt;&lt;strong&gt;How to Apply&lt;/strong&gt; :  Apply Online at NPCI website.   &lt;/p&gt;
 
 &lt;p&gt;Please visit &lt;a href=&quot;http://career.npci.org.in/jobs/&quot;&gt;http://career.npci.org.in/jobs/&lt;/a&gt; for  details and online submission of application.&lt;/p&gt;
-
-&lt;p&gt;.adslot_1 { width: 320px; height: 100px; }&lt;/p&gt;
-
-&lt;p&gt;@media (min-width:800px) { .adslot_1 { width: 336px; height: 280px; } }&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;(adsbygoogle = window.adsbygoogle&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;[]).push({});&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Share this &lt;/p&gt;
-
-&lt;p&gt;//&amp;lt;![CDATA[
-var siteurl = window.location.href;
-  document.write(‘&amp;lt;div class=&quot;sharethis&quot;&amp;gt;&amp;lt;div class=&quot;share&quot;&amp;gt; \
-&lt;a class=&quot;gp&quot; href=&quot;https://plus.google.com/share?url=&#39; + siteurl + &#39;&quot; target=&quot;_blank&quot; title=&quot;Share to Google+&quot;&gt;\
-    &lt;i class=&quot;fa fa-google-plus gotea&quot;&gt;&lt;/i&gt; Google&lt;/a&gt; \
-&lt;a class=&quot;fb&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?u=&#39; + siteurl + &#39;&quot; target=&quot;_blank&quot; title=&quot;Share to Facebook&quot;&gt;\
-    &lt;i class=&quot;fa fa-facebook fbtea&quot;&gt;&lt;/i&gt; Facebook&lt;/a&gt; \
-&lt;a class=&quot;tw&quot; href=&quot;https://twitter.com/intent/tweet?text=&#39;+encodeURIComponent(document.title)+&#39;&amp;amp;url=&#39;+siteurl+&#39;&quot; target=&quot;_blank&quot; title=&quot;Share to Twitter&quot;&gt;\
-    &lt;i class=&quot;fa fa-twitter twtea&quot;&gt;&lt;/i&gt; Twitter&lt;/a&gt; \
-    &lt;span class=&quot;pl&quot; data-target=&quot;#share-menu&quot;&gt;&lt;i class=&quot;fa fa-plus plustea&quot;&gt;&lt;/i&gt; More&lt;/span&gt; \
-&amp;lt;ul class=&quot;dropdown-menu&quot; id=&quot;share-menu&quot;&amp;gt; \
-    &amp;lt;li&amp;gt;&lt;a href=&quot;//www.digg.com/submit?url=&#39; + siteurl + &#39;&quot; target=&quot;_blank&quot; title=&quot;Share This On Digg&quot;&gt;Digg&lt;/a&gt;&amp;lt;/li&amp;gt; \
-    &amp;lt;li&amp;gt;&lt;a href=&quot;//www.linkedin.com/shareArticle?mini=true&amp;amp;url=&#39; + siteurl + &#39;&quot; target=&quot;_blank&quot; title=&quot;Share This On Linkedin&quot;&gt;Linkedin&lt;/a&gt;&amp;lt;/li&amp;gt; \
-    &amp;lt;li&amp;gt;&lt;a href=&quot;//www.stumbleupon.com/submit?url=&#39; + siteurl + &#39;&amp;amp;title=&#39;+encodeURIComponent(document.title)+&#39;&quot; target=&quot;_blank&quot; title=&quot;Share This On Stumbleupon&quot;&gt;Stumbleupon&lt;/a&gt;&amp;lt;/li&amp;gt; \
-    &amp;lt;li&amp;gt;&lt;a href=&quot;//delicious.com/post?url=&#39; + siteurl + &#39;&amp;amp;title=&#39;+encodeURIComponent(document.title)+&#39;&quot; target=&quot;_blank&quot; title=&quot;Share This On Delicious&quot;&gt;Delicious&lt;/a&gt;&amp;lt;/li&amp;gt; \
-    &amp;lt;li&amp;gt;&lt;a href=&quot;http://www.tumblr.com/share/link?url=&#39; + siteurl + &#39;&amp;amp;name=&#39;+encodeURIComponent(document.title)+&#39;&amp;amp;description=&#39;+encodeURIComponent(document.title)+&#39;&quot; target=&quot;_blank&quot; title=&quot;Share This On Tumblr&quot;&gt;Tumblr&lt;/a&gt;&amp;lt;/li&amp;gt; \
-    &amp;lt;li&amp;gt;&lt;a href=&quot;http://bufferapp.com/add?text=&#39;+encodeURIComponent(document.title)+&#39;&amp;amp;url=&#39; + siteurl + &#39;&quot; target=&quot;_blank&quot; title=&quot;Share This On BufferApp&quot;&gt;BufferApp&lt;/a&gt;&amp;lt;/li&amp;gt; \
-    &amp;lt;li&amp;gt;&lt;a href=&quot;https://getpocket.com/save?url=&#39; + siteurl + &#39;&amp;amp;title=&#39;+encodeURIComponent(document.title)+&#39;&quot; target=&quot;_blank&quot; title=&quot;Share This On Pocket&quot;&gt;Pocket&lt;/a&gt;&amp;lt;/li&amp;gt; \
-    &amp;lt;li&amp;gt;&lt;a href=&quot;http://www.evernote.com/clip.action?url=&#39; + siteurl + &#39;&amp;amp;title=&#39;+encodeURIComponent(document.title)+&#39;&quot; target=&quot;_blank&quot; title=&quot;Share This On Evernote&quot;&gt;Evernote&lt;/a&gt;&amp;lt;/li&amp;gt; \
-    &amp;lt;/ul&amp;gt; \
-&amp;lt;/div&amp;gt;&amp;lt;div class=&quot;clear&quot;&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; \
-‘);
-$(document).ready(function(){$(“.pl”).click(function(){$(“#share-menu”).slideToggle(“normal”)})});
-//]]&amp;gt;&lt;/p&gt;
-
-&lt;p&gt;Tweet
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?’http’:’https’;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+’://platform.twitter.com/widgets.js’;fjs.parentNode.insertBefore(js,fjs);}}(document, ‘script’, ‘twitter-wjs’);&lt;/p&gt;
-
 </content>
   </entry>
   
