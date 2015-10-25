@@ -7,16 +7,16 @@ layout: default
         {% for post in site.posts %}
             {% assign countpost = countpost | plus : 1 %}
             {% assign dp = countpost | modulo : 10 %}
-            {% if post.archive == false and dp == 0 %}
+            {% if post.archive == false %}
             <div class="page-item">
                 <div class="col-sm-8">
-                
+                {% if dp == 0 %}
                     <ul class="page-item-title">
                         <li><time class="timeago meta" datetime="{{ post.date }}">{{ post.date }}</time>
                         <a class="meta pull-right comments-meta" href="{{ post.url | prepend: site.url }}#disqus_thread">0 <i class="fa fa-comments-o fa-lg"></i></a></li>
                         <li><a class="title" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
                     </ul>
-                 
+                {% endif %} 
                 </div>
                 <div class="col-sm-4 hide-on-phone">
                     <ul class="page-item-title pull-right meta">
