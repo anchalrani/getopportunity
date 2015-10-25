@@ -6,7 +6,7 @@ layout: default
         {% assign countpost = 0 %}
         {% for post in site.posts %}
             {% capture cp %}{% increment countpost %}{% endcapture %}
-            {% capture dp %}{{% cp | moduls : 10 %}}{% endcapture %}
+            {% capture dp %}{{% cp | modulo : 10 %}}{% endcapture %}
             {% if post.archive == false %}
             <div class="page-item">
                 <div class="col-sm-8">
