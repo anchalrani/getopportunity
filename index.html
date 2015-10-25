@@ -10,12 +10,25 @@ layout: default
             {% if post.archive == false %}
             <div class="page-item">
                 <div class="col-sm-8">
-                {% if dp == 0 %}
+                
                     <ul class="page-item-title">
                         <li><time class="timeago meta" datetime="{{ post.date }}">{{ post.date }}</time>
                         <a class="meta pull-right comments-meta" href="{{ post.url | prepend: site.url }}#disqus_thread">0 <i class="fa fa-comments-o fa-lg"></i></a></li>
                         <li><a class="title" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></li>
                     </ul>
+                {% if dp == 0 %}
+                <div class="google-ads" style="margin-top:40px; text-align:center;">
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- GetOpportunity -->
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="ca-pub-5477329429218977"
+                             data-ad-slot="4757721849"
+                             data-ad-format="auto"></ins>
+                        <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                </div>
                 {% endif %} 
                 </div>
                 <div class="col-sm-4 hide-on-phone">
