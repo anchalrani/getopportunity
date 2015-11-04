@@ -18,7 +18,7 @@ Consultants in the areas of Marketing, Finance and Quantitative subjects like Ma
 **How to Apply** : Interested candidates may send detailed CV to Principal Coordinator – PGDM (ABM) by 20/11/2015.
 
 
-Please view <http://www.rimsnr.ac.in/DynamicPages/Recruitment.aspx> for more information and application format 
+Please view <http://www.manage.gov.in/vacancies/abm-consultants-rr.pdf> for more information and application format 
 
 
 
