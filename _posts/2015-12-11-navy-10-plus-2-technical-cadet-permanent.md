@@ -6,35 +6,6 @@ comments: true
 tags:  Cadet Navy Online Technical 
 archive: false
 ---
-
-
-
-Posted by
-SarkariNaukri Blog
-
-
-at
-9:01 AM
-
-
-Tweet
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-Sponsored Links
-
- 
-@media (min-width:800px) { .adslot_1 { width:100%; height: 280px; } }
-  
-
-
-
-
-
-(adsbygoogle = window.adsbygoogle || []).push({});
-
-
-
-
-
 THE INDIAN NAVY
  
 
@@ -52,7 +23,7 @@ Starting Pay Scale : Rs.15600-39100 grade pay Rs. 5400 plus MSP Rs. 6000/-
 
 
 
-For further details and apply online, kindly visit  at http://www.joinindiannavy.gov.in/forthcomingOfficer.php
+For further details and apply online, kindly visit  at <http://www.joinindiannavy.gov.in/forthcomingOfficer.php>
 
 
 
