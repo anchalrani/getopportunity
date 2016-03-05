@@ -3,7 +3,7 @@ layout: post
 title: STPI Thiruvananthapuram Job posts last date  23rd Nov-2015   
 date: 2015-10-13 14:17
 comments: true
-tags:Assistant Engineer Kerala Officer Online STPI 
+tags: Assistant Engineer Kerala Officer Online STPI 
 archive: false
 ---
 
