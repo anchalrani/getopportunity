@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Karnataka Police Sub-Inspector Recruitment last date 6th Nov-2015   
-date: 2015-10-10 12:55
+date: 2015-10-10
 comments: true
 tags:Inspector Karnataka Online Police 
 archive: false
