@@ -14,21 +14,21 @@ IIT Madras invites applications from Indian Nationals with an established record
 Departments : 
 
 
-Aerospace Engineering
-Applied Mechanics
-Chemical Engineering
-Chemistry
-Civil Engineering
-Computer Science & Engineering
-Electrical Engineering
-Engineering Design
-Humanities & Social Sciences
-Management Studies
-Mathematics
-Mechanical Engineering
-Metallurgical & Materials Engineering
-Ocean Engineering
-Physics 
+- Aerospace Engineering
+- Applied Mechanics
+- Chemical Engineering
+- Chemistry
+- Civil Engineering
+- Computer Science & Engineering
+- Electrical Engineering
+- Engineering Design
+- Humanities & Social Sciences
+- Management Studies
+- Mathematics
+- Mechanical Engineering
+- Metallurgical & Materials Engineering
+- Ocean Engineering
+- Physics 
 
 
 **How to Apply** : Apply Online at IIT Madras website only. Also send one signed hard copy of the data sheet only to : Dean (Administration), IIT Madras, Chennai - 600036 . The completed application should reach on or before 10/04/2016.
