@@ -4,7 +4,7 @@
   <title type="text" xml:lang="en">Job Opportunity</title>
   <link type="application/atom+xml" href="/feed.xml" rel="self"/>
   <link type="text/html" href="" rel="alternate"/>
-  <updated>2016-03-16T06:47:10+00:00</updated>
+  <updated>2016-03-16T11:47:21+00:00</updated>
   <id>/all_feed</id>
   <author>
     <name>Opportunity-admin</name>
@@ -88,21 +88,23 @@
 
 &lt;p&gt;Departments : &lt;/p&gt;
 
-&lt;p&gt;Aerospace Engineering
-Applied Mechanics
-Chemical Engineering
-Chemistry
-Civil Engineering
-Computer Science &amp;amp; Engineering
-Electrical Engineering
-Engineering Design
-Humanities &amp;amp; Social Sciences
-Management Studies
-Mathematics
-Mechanical Engineering
-Metallurgical &amp;amp; Materials Engineering
-Ocean Engineering
-Physics &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aerospace Engineering&lt;/li&gt;
+  &lt;li&gt;Applied Mechanics&lt;/li&gt;
+  &lt;li&gt;Chemical Engineering&lt;/li&gt;
+  &lt;li&gt;Chemistry&lt;/li&gt;
+  &lt;li&gt;Civil Engineering&lt;/li&gt;
+  &lt;li&gt;Computer Science &amp;amp; Engineering&lt;/li&gt;
+  &lt;li&gt;Electrical Engineering&lt;/li&gt;
+  &lt;li&gt;Engineering Design&lt;/li&gt;
+  &lt;li&gt;Humanities &amp;amp; Social Sciences&lt;/li&gt;
+  &lt;li&gt;Management Studies&lt;/li&gt;
+  &lt;li&gt;Mathematics&lt;/li&gt;
+  &lt;li&gt;Mechanical Engineering&lt;/li&gt;
+  &lt;li&gt;Metallurgical &amp;amp; Materials Engineering&lt;/li&gt;
+  &lt;li&gt;Ocean Engineering&lt;/li&gt;
+  &lt;li&gt;Physics &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;How to Apply&lt;/strong&gt; : Apply Online at IIT Madras website only. Also send one signed hard copy of the data sheet only to : Dean (Administration), IIT Madras, Chennai - 600036 . The completed application should reach on or before 10/04/2016.&lt;/p&gt;
 
