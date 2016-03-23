@@ -18,7 +18,6 @@ Pay Scales :
 - Associate Professor : Rs.  37400-67000  grade pay Rs.9500
 - Professor : Rs. 37400-39100 grade pay Rs.10500
 
-
 **How to Apply** : Detailed CV including age, qualification, experience and publications may be sent to
 recruit@iiml.ac.in. Please mention – Application for Faculty Recruitment in subject line. Hard copies
 may also be sent along with annexure addressed to Director, IIM Lucknow. Last date for submitting
