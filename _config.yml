@@ -28,7 +28,7 @@ timezone: India/Kolkata
 username: anchalrani
 repo: getopportunity
 branch: master
-gems: [jekyll-coffeescript, jekyll-assets]
+gems: []
 exclude:
   - README.md
   - Rakefile
