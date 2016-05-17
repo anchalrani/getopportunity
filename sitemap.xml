@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>/2016/04/15/managerial-job-posts-in-opgc-odisha/</loc>
+    </url>
+    
+    <url>
+        <loc>/2016/04/15/engineers-vacancy-in-rites-limited/</loc>
+    </url>
+    
+    <url>
         <loc>/2016/04/14/faculty-positions-in-nalanda-university/</loc>
     </url>
     
@@ -1378,7 +1386,7 @@
     </url>
     
     <url>
-        <loc>/2016/01/13/Technical-vacancy--in-Indian-Agricultural-Research-Institute/</loc>
+        <loc>/2016/01/13/Technical-vacancy-in-Indian-Agricultural-Research-Institute/</loc>
     </url>
     
     <url>
@@ -4426,7 +4434,7 @@
     </url>
     
     <url>
-        <loc>/2015/06/03/Electrical-discipline-job-posts-in+rites-limited/</loc>
+        <loc>/2015/06/03/Electrical-discipline-job-posts-in-rites-limited/</loc>
     </url>
     
     <url>
@@ -4434,15 +4442,15 @@
     </url>
     
     <url>
-        <loc>/2015/05/31/it-posts-in+bihar-state-power-holding-company/</loc>
+        <loc>/2015/05/31/Faculty-posts-in-SKHM-Government-Medical-College-Mewat/</loc>
     </url>
     
     <url>
-        <loc>/2015/05/31/Faculty+posts+in+SKHM+Government+Medical+College+Mewat/</loc>
+        <loc>/2015/05/31/it-posts-in-bihar-state-power-holding-company/</loc>
     </url>
     
     <url>
-        <loc>/2015/05/30/officers-recruitment-in+indian-coast-guard/</loc>
+        <loc>/2015/05/30/officers-recruitment-in-indian-coast-guard/</loc>
     </url>
     
 
@@ -4450,7 +4458,7 @@
     
     
     <url>
-        <loc>/404.html</loc>
+        <loc>/404/</loc>
     </url>
     
     
@@ -4458,17 +4466,15 @@
     
     
     <url>
-        <loc>/archive.html</loc>
+        <loc>/archive/</loc>
     </url>
     
     
     
     
     
-    
-    
     <url>
-        <loc>/contact.html</loc>
+        <loc>/contact/</loc>
     </url>
     
     
@@ -4485,8 +4491,10 @@
     
     
     
+    
+    
     <url>
-        <loc>/search.html</loc>
+        <loc>/search/</loc>
     </url>
     
     
@@ -4498,7 +4506,7 @@
     
     
     <url>
-        <loc>/tags.html</loc>
+        <loc>/tags/</loc>
     </url>
     
     
