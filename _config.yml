@@ -12,7 +12,7 @@ markdown: kramdown
 redcarpet:
   extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 
-url: 
+url: http://anchalrani.github.io/getopportunity/
 permalink: /:year/:month/:day/:title/
 owner:
     name: Opportunity-admin
