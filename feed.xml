@@ -2,10 +2,10 @@
 <!DOCTYPE xsl:stylesheet [<!ENTITY mdash "&#x2014;">]>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text" xml:lang="en">Job Opportunity</title>
-  <link type="application/atom+xml" href="/feed.xml" rel="self"/>
-  <link type="text/html" href="" rel="alternate"/>
-  <updated>2016-05-23T16:16:17+00:00</updated>
-  <id>/all_feed</id>
+  <link type="application/atom+xml" href="../getopportunity//feed.xml" rel="self"/>
+  <link type="text/html" href="../getopportunity/" rel="alternate"/>
+  <updated>2017-11-20T16:57:23+00:00</updated>
+  <id>../getopportunity//all_feed</id>
   <author>
     <name>Opportunity-admin</name>
   </author>
@@ -13,9 +13,9 @@
   
   <entry>
     <title>Union Bank Specialist Officers recruitment last date 10th June-2016</title>
-    <link href="/2016/05/22/union-bank-specialist-officers-vacancy-2016/"/>
+    <link href="../getopportunity//2016/05/22/union-bank-specialist-officers-vacancy-2016/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/union-bank-specialist-officers-vacancy-2016</id>
+    <id>../getopportunity//2016/05/22/union-bank-specialist-officers-vacancy-2016</id>
     <content type="html">&lt;p&gt;Union Bank of India, a Leading Listed Public Sector Bank with Head Office in Mumbai and all India representation, invites Online Applications, from qualified candidates for the following posts of Specialist Officers :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -38,9 +38,9 @@
   
   <entry>
     <title>Teaching positions in South Asian University last date 20th June-2016</title>
-    <link href="/2016/05/22/teaching-positions-South-Asian-University/"/>
+    <link href="../getopportunity//2016/05/22/teaching-positions-South-Asian-University/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/teaching-positions-South-Asian-University</id>
+    <id>../getopportunity//2016/05/22/teaching-positions-South-Asian-University</id>
     <content type="html">&lt;p&gt;South Asian University, a collaborative project of all SAARC countries, is looking for outstanding, highly qualified and experienced faculty members :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -57,9 +57,9 @@
   
   <entry>
     <title>Recruitment of Heads of Verticals for RBI IT Subsidiary last date 6th June-2016</title>
-    <link href="/2016/05/22/recruitment-of-Heads-of-IT-verticals-RBI/"/>
+    <link href="../getopportunity//2016/05/22/recruitment-of-Heads-of-IT-verticals-RBI/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/recruitment-of-Heads-of-IT-verticals-RBI</id>
+    <id>../getopportunity//2016/05/22/recruitment-of-Heads-of-IT-verticals-RBI</id>
     <content type="html">&lt;p&gt;Reserve Bank of India (RBI)  is in the process of setting up of an Information Technology (IT) subsidiary to take care of the IT requirements including the cyber security needs of the Reserve Bank and its regulated entities.:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -88,9 +88,9 @@
   
   <entry>
     <title>RBI  Law Officer  and Archivist posts last date 3rdJune-2016</title>
-    <link href="/2016/05/22/rbi-law-officer-and-archivist-posts/"/>
+    <link href="../getopportunity//2016/05/22/rbi-law-officer-and-archivist-posts/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/rbi-law-officer-and-archivist-posts</id>
+    <id>../getopportunity//2016/05/22/rbi-law-officer-and-archivist-posts</id>
     <content type="html">&lt;p&gt;Reserve Bank of India (RBI)  invites online applications from eligible Indian Citizen for the following posts  :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -106,9 +106,9 @@
   
   <entry>
     <title>RailTel recruitment for Hartron project on contract basis last date 10th June-2016</title>
-    <link href="/2016/05/22/railtel-recruitment-for-hartron-project/"/>
+    <link href="../getopportunity//2016/05/22/railtel-recruitment-for-hartron-project/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/railtel-recruitment-for-hartron-project</id>
+    <id>../getopportunity//2016/05/22/railtel-recruitment-for-hartron-project</id>
     <content type="html">&lt;p&gt;RailTel Corporation of India Ltd, a Mini Ratna PSU of the Ministry of Railways, invites applications for  the following posts on contract basis for Hartron Project in Haryana :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -124,9 +124,9 @@
   
   <entry>
     <title>Operator Field posts in Bharat Petroleum last date 6th June-2016</title>
-    <link href="/2016/05/22/operator-field-posts-bharat-petroleum/"/>
+    <link href="../getopportunity//2016/05/22/operator-field-posts-bharat-petroleum/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/operator-field-posts-bharat-petroleum</id>
+    <id>../getopportunity//2016/05/22/operator-field-posts-bharat-petroleum</id>
     <content type="html">&lt;p&gt;Bharat Petroleum Corporation Limited (BPCL) is looking for following posts of Operator (Field) in  LPG Plants / Retail Locations in various States  :&lt;/p&gt;
 
 &lt;p&gt;http://railtelindia.com/careers.htmlOperator (Field) : 196 posts, Pay Scale : Rs. 9250-20000, Age : 18-23 years, Qualification : SSC / SSLC / 10th pass with 2 years NCVT ITI  NTC  course with 70% marks (65% for SC/ST/PWD candidates).  &lt;/p&gt;
@@ -139,9 +139,9 @@
   
   <entry>
     <title>Indian Oil Haldia Refinery Engineering Assistant vacancy last date 20th June-2016</title>
-    <link href="/2016/05/22/indian-oil-haldia-refinery-engineering-assistant-vacancy/"/>
+    <link href="../getopportunity//2016/05/22/indian-oil-haldia-refinery-engineering-assistant-vacancy/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/indian-oil-haldia-refinery-engineering-assistant-vacancy</id>
+    <id>../getopportunity//2016/05/22/indian-oil-haldia-refinery-engineering-assistant-vacancy</id>
     <content type="html">&lt;p&gt;Applications are invited from Indian Nationals in Indian Oil for following posts at IOCL Haldia Refinery :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -164,9 +164,9 @@
   
   <entry>
     <title>Faculty vacancy in NITIE Mumbai  May-2016</title>
-    <link href="/2016/05/22/faculty-vacancy-in-nitie-mumbai-may-2016/"/>
+    <link href="../getopportunity//2016/05/22/faculty-vacancy-in-nitie-mumbai-may-2016/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/faculty-vacancy-in-nitie-mumbai-may-2016</id>
+    <id>../getopportunity//2016/05/22/faculty-vacancy-in-nitie-mumbai-may-2016</id>
     <content type="html">&lt;p&gt;Applications are invited for the following posts of Associate Professor and   Assistant Professor of in NITIE in various area / specialisation :   
   Vacancy :&lt;/p&gt;
 
@@ -184,9 +184,9 @@
   
   <entry>
     <title>Walk-In-Interview at UTIITSL for IT Jobs in May-2016</title>
-    <link href="/2016/05/22/Walk-In-Interview-at-UTIITSL-IT-Jobs/"/>
+    <link href="../getopportunity//2016/05/22/Walk-In-Interview-at-UTIITSL-IT-Jobs/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/Walk-In-Interview-at-UTIITSL-IT-Jobs</id>
+    <id>../getopportunity//2016/05/22/Walk-In-Interview-at-UTIITSL-IT-Jobs</id>
     <content type="html">&lt;p&gt;UTI Infrastructure Technology and Services Ltd., invites the applications for the contractual posts from Indian citizens  :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -207,9 +207,9 @@
   
   <entry>
     <title>Technical Assistant Electrical vacancy in Rites last date 3rd June-2016</title>
-    <link href="/2016/05/22/Rites-technical-assistant-electrical-vacancy/"/>
+    <link href="../getopportunity//2016/05/22/Rites-technical-assistant-electrical-vacancy/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/Rites-technical-assistant-electrical-vacancy</id>
+    <id>../getopportunity//2016/05/22/Rites-technical-assistant-electrical-vacancy</id>
     <content type="html">&lt;p&gt;RITES Ltd. a premier consultancy organization,  invites online application for the following posts of Technical Assistant (Electrical) on contract basis :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -225,9 +225,9 @@
   
   <entry>
     <title>Manager Job posts in NPCC last date 10th June-2016</title>
-    <link href="/2016/05/22/Manager-job-posts-in-NPCC/"/>
+    <link href="../getopportunity//2016/05/22/Manager-job-posts-in-NPCC/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/Manager-job-posts-in-NPCC</id>
+    <id>../getopportunity//2016/05/22/Manager-job-posts-in-NPCC</id>
     <content type="html">&lt;p&gt;NPCC Ltd., a schedule ‘B’ Premier Public Sector Enterprise,  is in urgent need of following executives on regular/deputation/absorption basis at Corporate Office, Zonal Offices &amp;amp; Projects all over India :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -246,9 +246,9 @@
   
   <entry>
     <title>Faculty and other vacancy in MNLU Mumbai last date 10th June-2016</title>
-    <link href="/2016/05/22/MNLU-Mumbai-Faculty-other-job/"/>
+    <link href="../getopportunity//2016/05/22/MNLU-Mumbai-Faculty-other-job/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/MNLU-Mumbai-Faculty-other-job</id>
+    <id>../getopportunity//2016/05/22/MNLU-Mumbai-Faculty-other-job</id>
     <content type="html">&lt;p&gt;Maharashtra National Law University, Mumbai invites applications for the following faculty and other posts :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -274,9 +274,9 @@
   
   <entry>
     <title>Various Job vacancy in Himachal by HPSSC  last date 21st June-2016</title>
-    <link href="/2016/05/22/HPSSC-job-vacancy-in-Himachal-Pradesh/"/>
+    <link href="../getopportunity//2016/05/22/HPSSC-job-vacancy-in-Himachal-Pradesh/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/HPSSC-job-vacancy-in-Himachal-Pradesh</id>
+    <id>../getopportunity//2016/05/22/HPSSC-job-vacancy-in-Himachal-Pradesh</id>
     <content type="html">&lt;p&gt;Online applications  are invited for the following posts in various departments in Himachal Pradesh Government by HPSSC :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -338,18 +338,20 @@
   
   <entry>
     <title>Delhi Metro Engineer  recruitment last date 27th June-2016</title>
-    <link href="/2016/05/22/Delhi-Metro-Assistant-Manager-Engineer-vacancy/"/>
+    <link href="../getopportunity//2016/05/22/Delhi-Metro-Assistant-Manager-Engineer-vacancy/"/>
     <updated>2016-05-22T21:58:00+00:00</updated>
-    <id>/2016/05/22/Delhi-Metro-Assistant-Manager-Engineer-vacancy</id>
+    <id>../getopportunity//2016/05/22/Delhi-Metro-Assistant-Manager-Engineer-vacancy</id>
     <content type="html">&lt;p&gt;Online applications are invited for the following Executive and Non-Executive posts of Engineers and Junior Engineers in Delhi Metro Rail Corporation (DMRC) on contract basis :&lt;/p&gt;
 
-&lt;p&gt; 
-- Assistant Manager (Electrical) : 12 posts (UR-4, OBC-5, SC-2, ST-1), Pay Scale : Rs. 20600 - 46500
-- Assistant Manager (Signal &amp;amp; Telecom) : 08 posts (UR-4, OBC-1, SC-3), Pay Scale : Rs. 20600 - 46500
-- Assistant Manager (Electrical) - Vijaywada/ Mumbai/Noida/Gr.Noida : 15 posts (UR-9, OBC-3, SC-2, ST-1), Pay Scale : Rs.20600-46500
-- Assistant Manager (Signal &amp;amp; Telecom) - Noida/Gr.Noida : 07 posts (UR-5, OBC-1, SC-1), Pay Scale : Rs.20600-46500
-- Junior Engineer (Electrical) - Vijaywada/ Mumbai/Noida/Gr.Noida : 54 posts (UR-27, OBC-15, SC-8, ST-4), Pay Scale : Rs.13500-25520 
-- Junior Engineer (Electronics) -  Noida/Gr.Noida : 18 posts (UR-9, OBC-4, SC-3, ST-2), Pay Scale : Rs.13500-25520  &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Assistant Manager (Electrical) : 12 posts (UR-4, OBC-5, SC-2, ST-1), Pay Scale : Rs. 20600 - 46500&lt;/li&gt;
+  &lt;li&gt;Assistant Manager (Signal &amp;amp; Telecom) : 08 posts (UR-4, OBC-1, SC-3), Pay Scale : Rs. 20600 - 46500&lt;/li&gt;
+  &lt;li&gt;Assistant Manager (Electrical) - Vijaywada/ Mumbai/Noida/Gr.Noida : 15 posts (UR-9, OBC-3, SC-2, ST-1), Pay Scale : Rs.20600-46500&lt;/li&gt;
+  &lt;li&gt;Assistant Manager (Signal &amp;amp; Telecom) - Noida/Gr.Noida : 07 posts (UR-5, OBC-1, SC-1), Pay Scale : Rs.20600-46500&lt;/li&gt;
+  &lt;li&gt;Junior Engineer (Electrical) - Vijaywada/ Mumbai/Noida/Gr.Noida : 54 posts (UR-27, OBC-15, SC-8, ST-4), Pay Scale : Rs.13500-25520 &lt;/li&gt;
+  &lt;li&gt;Junior Engineer (Electronics) -  Noida/Gr.Noida : 18 posts (UR-9, OBC-4, SC-3, ST-2), Pay Scale : Rs.13500-25520  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;How to Apply&lt;/strong&gt; :  Apply Online at DMRC website from 26/05/2016 to 27/06/20916 only.&lt;/p&gt;
 
@@ -359,9 +361,9 @@
   
   <entry>
     <title>Various Job posts in Packaging Institute last date 1st Jul-2016</title>
-    <link href="/2016/05/22/various-job-posts-in-packaging-institute-IIP/"/>
+    <link href="../getopportunity//2016/05/22/various-job-posts-in-packaging-institute-IIP/"/>
     <updated>2016-05-22T21:57:00+00:00</updated>
-    <id>/2016/05/22/various-job-posts-in-packaging-institute-IIP</id>
+    <id>../getopportunity//2016/05/22/various-job-posts-in-packaging-institute-IIP</id>
     <content type="html">&lt;p&gt;Applications are invited from Indian Citizens for filling up of the following posts in Indian Institute of Packaging, an autonomous body under Ministry of Commerce &amp;amp; Industry, Govt. of India :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -381,9 +383,9 @@
   
   <entry>
     <title>Recruitment Job vacancy in DDA Delhi last date  14h June-2016</title>
-    <link href="/2016/05/22/recruitment-job-vacancy-in-dda-delhi/"/>
+    <link href="../getopportunity//2016/05/22/recruitment-job-vacancy-in-dda-delhi/"/>
     <updated>2016-05-22T21:57:00+00:00</updated>
-    <id>/2016/05/22/recruitment-job-vacancy-in-dda-delhi</id>
+    <id>../getopportunity//2016/05/22/recruitment-job-vacancy-in-dda-delhi</id>
     <content type="html">&lt;p&gt;DDA invites online applications for forlowing engaging Jr. Consultant(s) / consultant(s) on contractual basis as per the details given below : &lt;/p&gt;
 
 &lt;ul&gt;
@@ -412,9 +414,9 @@
   
   <entry>
     <title>Navy Sailor for Senior Secondary Recruits 01 of 2017 batch entry last date 5th June-2016</title>
-    <link href="/2016/05/22/navy-sailor-for-senior-secondary-recruits-SSR/"/>
+    <link href="../getopportunity//2016/05/22/navy-sailor-for-senior-secondary-recruits-SSR/"/>
     <updated>2016-05-22T21:57:00+00:00</updated>
-    <id>/2016/05/22/navy-sailor-for-senior-secondary-recruits-SSR</id>
+    <id>../getopportunity//2016/05/22/navy-sailor-for-senior-secondary-recruits-SSR</id>
     <content type="html">&lt;p&gt;Applications are invited from unmarried Male Candidates for Enrollment as Sailors  - for Senior Secondary Recruits (SSR) - 01/2017 Batch. Course Commencing  February 2017.&lt;/p&gt;
 
 &lt;p&gt;Age : Candidates to be born between 01 February 1996 to 31 January 2000; both dates inclusive)&lt;/p&gt;
@@ -433,9 +435,9 @@
   
   <entry>
     <title>Job vacancy in  Aavantika Gas Limited last date 17th June-2016</title>
-    <link href="/2016/05/22/job-vacancy-in-aavantika-gas-limited/"/>
+    <link href="../getopportunity//2016/05/22/job-vacancy-in-aavantika-gas-limited/"/>
     <updated>2016-05-22T21:57:00+00:00</updated>
-    <id>/2016/05/22/job-vacancy-in-aavantika-gas-limited</id>
+    <id>../getopportunity//2016/05/22/job-vacancy-in-aavantika-gas-limited</id>
     <content type="html">&lt;p&gt;Aavantika Gas Limited is in urgent requirement for the following positions of Executives :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -459,9 +461,9 @@
   
   <entry>
     <title>Faculty and other posts in TMC Mumbai last date 6th June-2016</title>
-    <link href="/2016/05/22/faculty-and-other-posts-in-tmc-mumbai/"/>
+    <link href="../getopportunity//2016/05/22/faculty-and-other-posts-in-tmc-mumbai/"/>
     <updated>2016-05-22T21:57:00+00:00</updated>
-    <id>/2016/05/22/faculty-and-other-posts-in-tmc-mumbai</id>
+    <id>../getopportunity//2016/05/22/faculty-and-other-posts-in-tmc-mumbai</id>
     <content type="html">&lt;p&gt;Applications are invited for the following posts in Tata Memorial Centre (TMC)  :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -480,9 +482,9 @@
   
   <entry>
     <title>Faculty and other posts in JIPMER Puducherry last date 21st June-2016</title>
-    <link href="/2016/05/22/faculty-and-other-posts-in-JIPMER-Puducherry/"/>
+    <link href="../getopportunity//2016/05/22/faculty-and-other-posts-in-JIPMER-Puducherry/"/>
     <updated>2016-05-22T21:57:00+00:00</updated>
-    <id>/2016/05/22/faculty-and-other-posts-in-JIPMER-Puducherry</id>
+    <id>../getopportunity//2016/05/22/faculty-and-other-posts-in-JIPMER-Puducherry</id>
     <content type="html">&lt;p&gt;Applications are invited by the Director, JIPMER from the eligible candidates for filling up of 112 posts (Faculty &amp;amp; Non Faculty posts) on contractual basis for JIPMER – II, Karaikal Campus, Puducherry :&lt;/p&gt;
 
 &lt;ul&gt;
